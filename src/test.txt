@@ -1,0 +1,31 @@
+
+MyCards: Kc10c 
+Dealer: 5 
+Players: True True False False True True 4  
+MyStack: 0 
+BoardCards: 
+Round: Pre-flop
+Blinds: 100/200
+Pot: 450
+RaiseState: 0
+CallCost: 200
+MyCards: Kc10c 
+Dealer: 5 
+Players: False False False False False False 0  
+MyStack: 0 
+BoardCards: 
+Round: Pre-flop
+Blinds: 100/200
+Pot: 450
+RaiseState: 0
+CallCost: 200
+MyCards: Kc10c 
+Dealer: 5 
+Players: False False False False False False 0  
+MyStack: 0 
+BoardCards: 
+Round: Pre-flop
+Blinds: 100/200
+Pot: 450
+RaiseState: 0
+CallCost: 200
